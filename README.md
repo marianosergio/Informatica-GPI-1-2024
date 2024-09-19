@@ -17,7 +17,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Leonardo Souza         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-dos-santos-souza-870511169)              |
+| Aluno |   Sergio Mariano         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()              |
 
 
 # Objetivo das Aulas
