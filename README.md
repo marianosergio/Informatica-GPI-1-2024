@@ -19,7 +19,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
 ![image](https://github.com/user-attachments/assets/a39800d4-f800-4ffb-a9da-017225f72872)
 
-
+[atividade 4](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/e7dab141e06b07a123aa3009956cd52f183561e4/SergiofiliaisDAX.pbix)
 ![image](https://github.com/user-attachments/assets/2fc2c815-273b-4d3c-9476-70f769bdc68d)
 
 
