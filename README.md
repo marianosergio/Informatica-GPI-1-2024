@@ -17,9 +17,13 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ## Atividade da aula Power BI
 [Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/9f58de5acd31f06c882b8abd338fd151e63323fd/powerb2.pbix)
 
-![image](https://github.com/user-attachments/assets/a39800d4-f800-4ffb-a9da-017225f72872)
+
 
 [atividade 4]
+![image](https://github.com/user-attachments/assets/043f4692-f927-4d14-a226-3c5c0aabfe5b)
+![image](https://github.com/user-attachments/assets/700fe8a7-11db-4068-8f03-edcc067ec5cf)
+
+
 
 
 # Informação Pessoal
