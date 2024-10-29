@@ -13,7 +13,28 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 # Aulas
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
+# Aulas
+## Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
 
+## Aula 2 - Excel - (soma/cont-se/se)
+
+## Aula 3 - Excel - Gráficos e tratamento de dados
+
+## Aula 4 - Excel - Gráficos e tratamento de dados
+
+## Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
+
+## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
+
+## Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
+![Power_bi](https://github.com/user-attachments/assets/a269afea-05b4-4648-af98-463580b24373)
+
+## Aula 8 - Power BI - Análise dos dados dos EX-PRESIDENTES do BRASIL dos anos de 2021 à 2024
+![Captura de tela 2024-10-10 194947](https://github.com/user-attachments/assets/efd66acf-da6c-4d80-bc5a-66e0ebc05d52)
+
+## Aula 9 - Power BI
+
+## Aula 10 - Power BI - Continuação de análise dos dados dos EX-PRESIDENTES - KPI
 ## Atividade da aula Power BI
 [Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/9f58de5acd31f06c882b8abd338fd151e63323fd/powerb2.pbix)
 
