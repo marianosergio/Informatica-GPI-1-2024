@@ -1,4 +1,4 @@
-# Inform-tica-GPI-1-2-semestre
+# Informatica-GPI-1-2-semestre
 Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas aprendendo novos métodos e fórmulas
 
 
@@ -27,10 +27,10 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
 
 ## Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
-![Power_bi](https://github.com/user-attachments/assets/a269afea-05b4-4648-af98-463580b24373)
+
 
 ## Aula 8 - Power BI - Análise dos dados dos EX-PRESIDENTES do BRASIL dos anos de 2021 à 2024
-![Captura de tela 2024-10-10 194947](https://github.com/user-attachments/assets/efd66acf-da6c-4d80-bc5a-66e0ebc05d52)
+
 
 ## Aula 9 - Power BI
 
