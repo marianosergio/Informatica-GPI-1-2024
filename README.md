@@ -32,7 +32,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
 
 ## Aula 8 - Power BI - Análise dos dados dos EX-PRESIDENTES do BRASIL dos anos de 2021 à 2024
-
+[Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/b3c06bd516745421580b1793974b8c84b86ae379/leonardo_e_s%C3%A9rgio.pbix)
 ![image](https://github.com/user-attachments/assets/2a02992a-16e7-4abc-a44e-a191b013ecec)
 ![image](https://github.com/user-attachments/assets/22a3e061-573d-48fa-b5fd-71129f96b1bd)
 
