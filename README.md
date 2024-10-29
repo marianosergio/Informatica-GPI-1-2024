@@ -27,6 +27,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
 
 ## Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
+![image](https://github.com/user-attachments/assets/a2f441f1-5e91-41fe-b7f9-543aa450c9b9)
 
 
 ## Aula 8 - Power BI - Análise dos dados dos EX-PRESIDENTES do BRASIL dos anos de 2021 à 2024
