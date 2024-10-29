@@ -35,7 +35,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ## Aula 9 - Power BI
 
 ## Aula 10 - Power BI - Continuação de análise dos dados dos EX-PRESIDENTES - KPI
-## Atividade da aula Power BI
+
 [Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/9f58de5acd31f06c882b8abd338fd151e63323fd/powerb2.pbix)
 
 
