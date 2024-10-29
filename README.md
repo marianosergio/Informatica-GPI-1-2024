@@ -25,11 +25,13 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ## Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
 
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
+[Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/fd1d185fe45a7917034f71ff70628ca0a2016293/dados%20das%20filiais.pbix)
 
 ![image](https://github.com/user-attachments/assets/5f461939-9cfe-4567-a2d2-22ba3365977c)
 
 ## Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
 [Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/0d201609b33611272f42f02cc0e4455d245ab3c4/atividade%20power%20bi%20Sergio.pbix)
+
 ![image](https://github.com/user-attachments/assets/a2f441f1-5e91-41fe-b7f9-543aa450c9b9)
 
 
