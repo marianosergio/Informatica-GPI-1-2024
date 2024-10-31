@@ -15,7 +15,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
 # Aulas
 ## Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
-[arquivo da aula]https://github.com/marianosergio/Informatica-GPI-1-2024/blob/c83f89830b1b5392c3866b8006bd9841f113ff58/Apresenta%C3%A7%C3%A3o%20de%20brainstorm%20minimalista%20verde%20e%20preto_20240812_195619_0000%20(1)_compressed.pdf
+[arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/c83f89830b1b5392c3866b8006bd9841f113ff58/Apresenta%C3%A7%C3%A3o%20de%20brainstorm%20minimalista%20verde%20e%20preto_20240812_195619_0000%20(1)_compressed.pdf)
 ![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/cfdc53e3-ddc2-4634-81c4-a860e89d4a89)
 
 ## Aula 2 - Excel - (soma/cont-se/se)
