@@ -15,6 +15,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
 # Aulas
 ## Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
+[arquivo da aula]
 ![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/cfdc53e3-ddc2-4634-81c4-a860e89d4a89)
 
 ## Aula 2 - Excel - (soma/cont-se/se)
