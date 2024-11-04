@@ -1,4 +1,4 @@
-# Informatica-GPI-1-2-semestre
+![image](https://github.com/user-attachments/assets/ea5639e1-0a6f-4d82-952e-ff1c1d1039d2)# Informatica-GPI-1-2-semestre
 Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas aprendendo novos métodos e fórmulas
 
 
@@ -21,6 +21,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ## Aula 2 - Excel - (soma/cont-se/se)
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/135f5c674e0673cf7d578a0d0cbf2ebc7a7208ea/Sergio%20Mariano%20Informatica%20GPI_1.xlsx)
 ## Aula 3 - Excel - Gráficos e tratamento de dados
+
 
 ## Aula 4 - Excel - Gráficos e tratamento de dados
 
