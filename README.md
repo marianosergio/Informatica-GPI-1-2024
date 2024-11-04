@@ -17,14 +17,12 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ## Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
 [arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/c83f89830b1b5392c3866b8006bd9841f113ff58/Apresenta%C3%A7%C3%A3o%20de%20brainstorm%20minimalista%20verde%20e%20preto_20240812_195619_0000%20(1)_compressed.pdf)
 ![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/cfdc53e3-ddc2-4634-81c4-a860e89d4a89)
-
 ## Aula 2 - Excel - (soma/cont-se/se)
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/135f5c674e0673cf7d578a0d0cbf2ebc7a7208ea/Sergio%20Mariano%20Informatica%20GPI_1.xlsx)
 ## Aula 3 - Excel - Gráficos e tratamento de dados
-
-
+[Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/278d50f17d46e60723589dd04d64e1cc4ea9538f/2024.08_dados-abertos-ex-presidentes_%20Leonardo%20Souza_Geovanna_S%C3%A9rgio_Camila.xlsx)
 ## Aula 4 - Excel - Gráficos e tratamento de dados
-
+[Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/278d50f17d46e60723589dd04d64e1cc4ea9538f/2024.08_dados-abertos-ex-presidentes_%20Leonardo%20Souza_Geovanna_S%C3%A9rgio_Camila.xlsx)
 ## Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/0344dd7efd8929c880acba1cecb5ad576986009a/2024.08_dados-abertos-ex-presidentes_%20Leonardo%20Souza_Geovanna_S%C3%A9rgio_Camila.xlsx)
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
