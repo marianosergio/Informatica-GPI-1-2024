@@ -19,6 +19,8 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/cfdc53e3-ddc2-4634-81c4-a860e89d4a89)
 ## Aula 2 - Excel - (soma/cont-se/se)
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/135f5c674e0673cf7d578a0d0cbf2ebc7a7208ea/Sergio%20Mariano%20Informatica%20GPI_1.xlsx)
+![image](https://github.com/user-attachments/assets/49ba0214-7c73-44fa-a80f-d9aeba458e28)
+
 ## Aula 3 - Excel - Gráficos e tratamento de dados
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/278d50f17d46e60723589dd04d64e1cc4ea9538f/2024.08_dados-abertos-ex-presidentes_%20Leonardo%20Souza_Geovanna_S%C3%A9rgio_Camila.xlsx)
 ![image](https://github.com/user-attachments/assets/3213c554-7b8c-40b3-8274-f5c2bb226175)
