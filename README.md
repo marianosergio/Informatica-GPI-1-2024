@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ea5639e1-0a6f-4d82-952e-ff1c1d1039d2)# Informatica-GPI-1-2-semestre
+# Informatica-GPI-1-2-semestre
 Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas aprendendo novos métodos e fórmulas
 
 
