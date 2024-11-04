@@ -21,8 +21,12 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/135f5c674e0673cf7d578a0d0cbf2ebc7a7208ea/Sergio%20Mariano%20Informatica%20GPI_1.xlsx)
 ## Aula 3 - Excel - Gráficos e tratamento de dados
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/278d50f17d46e60723589dd04d64e1cc4ea9538f/2024.08_dados-abertos-ex-presidentes_%20Leonardo%20Souza_Geovanna_S%C3%A9rgio_Camila.xlsx)
+![image](https://github.com/user-attachments/assets/3213c554-7b8c-40b3-8274-f5c2bb226175)
+
 ## Aula 4 - Excel - Gráficos e tratamento de dados
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/278d50f17d46e60723589dd04d64e1cc4ea9538f/2024.08_dados-abertos-ex-presidentes_%20Leonardo%20Souza_Geovanna_S%C3%A9rgio_Camila.xlsx)
+![image](https://github.com/user-attachments/assets/417ede13-2981-4b78-93ab-a17bee27dc66)
+
 ## Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
 [Arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/0344dd7efd8929c880acba1cecb5ad576986009a/2024.08_dados-abertos-ex-presidentes_%20Leonardo%20Souza_Geovanna_S%C3%A9rgio_Camila.xlsx)
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
