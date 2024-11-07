@@ -97,7 +97,7 @@ Adicionar video e documentos nessa seção
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Time Scrum | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
