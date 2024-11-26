@@ -59,6 +59,9 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 ![image](https://github.com/user-attachments/assets/700fe8a7-11db-4068-8f03-edcc067ec5cf)
 
 
+## Gif Power Apps
+
+![clideo_editor_57b58b8e9843473a855dfe800122c323](https://github.com/user-attachments/assets/41c91467-4d4a-4ede-b836-d89b33cb982f)
 
 
 
