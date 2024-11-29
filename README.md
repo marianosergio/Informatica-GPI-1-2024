@@ -65,7 +65,7 @@ Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
 ## ARQUIVO DE PROVA
 
-[Arquivo da Aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/d9153b9a04abdf455c675f3a9c43e8bffb735804/ALUNOS%20ESTRANGEIRO%20%201%C2%B0%20SEMESTRE%202023.pbix)
+[Arquivo da Prova](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/d9153b9a04abdf455c675f3a9c43e8bffb735804/ALUNOS%20ESTRANGEIRO%20%201%C2%B0%20SEMESTRE%202023.pbix)
 
 
 ![image](https://github.com/user-attachments/assets/bd6a0460-d5f0-4cbc-a002-8e7e1890d05e)
